@@ -18,3 +18,6 @@
 
 >git config --global user.email "user email" [to add email]
 
+>git remote add remote_name remote_path[to add remote repository]
+
+>git push remote_name branch_name[to push changes from local repository to remote repository]
