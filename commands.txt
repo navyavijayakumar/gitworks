@@ -10,3 +10,5 @@
 
 >git pull [changes from remote repository to local workspace]
 
+>git push [local repository changes to remote repository]
+
